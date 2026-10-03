@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of vasyltech/flarum-algolia-search.** Not for installation: use [Packagist](https://packagist.org/packages/vasyltech/flarum-algolia-search) or the [upstream repository](https://github.com/VasylTech/flarum-algolia-search).
 
-**0** versions archived · Latest: [`1.0.0-alpha.2`](https://github.com/flarchive/vasyltech-flarum-algolia-search/tree/archive/v1.0.0-alpha.2) · License: `MIT` · Flarum: `^0.1.0`
+**2** versions archived · Latest: [`1.0.0-alpha.2`](https://github.com/flarchive/vasyltech-flarum-algolia-search/tree/archive/v1.0.0-alpha.2) · License: `MIT` · Flarum: `^0.1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0-alpha.1` | 2019-04-03 | `0.1.0-beta.8.1` | [Browse](https://github.com/flarchive/vasyltech-flarum-algolia-search/tree/archive/v1.0.0-alpha.1) |
+| `1.0.0-alpha.2` | 2019-07-16 | `^0.1.0` | [Browse](https://github.com/flarchive/vasyltech-flarum-algolia-search/tree/archive/v1.0.0-alpha.2) |
 
 Catalog entry: [packages/vasyltech-flarum-algolia-search.json](https://github.com/flarchive/archive-index/blob/main/packages/vasyltech-flarum-algolia-search.json)
 
